@@ -4,6 +4,8 @@ A collection of AI coding agent skills for Claude Code, Codex, and other coding 
 
 Skills package practical workflows and instructions that help an agent handle common development tasks consistently. This repository is intended to make useful skills easy to discover, reuse, and adapt across agents.
 
+See [Project structure](PROJECT_STRUCTURE.md) for the proposed categories based on the AI native software development lifecycle and the conventions for organizing skills.
+
 ## Using a skill
 
 1. Browse the skill directories and choose a skill that fits your task.

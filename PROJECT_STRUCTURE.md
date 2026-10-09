@@ -50,8 +50,8 @@ of an agent workflow does not by itself establish release or security approval.
 
 ## Proposed directory layout
 
-The skill names below illustrate placement. These directories and skills have
-not been created yet.
+The layout below illustrates placement; most listed skills are proposals.
+See the README for available skills.
 
 ```text
 speedrun/
@@ -106,6 +106,10 @@ speedrun/
     │   └── infrastructure-validation/
     │       └── SKILL.md
     ├── 07-release/
+    │   ├── create-changelog/
+    │   │   ├── SKILL.md
+    │   │   └── agents/
+    │   │       └── openai.yaml
     │   ├── release-preparation/
     │   │   └── SKILL.md
     │   ├── deployment/

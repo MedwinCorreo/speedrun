@@ -8,6 +8,12 @@ See [Project structure](PROJECT_STRUCTURE.md) for the proposed categories based 
 
 ## Using a skill
 
+Available skills:
+
+| Skill | Category | Purpose |
+| --- | --- | --- |
+| [create-changelog](skills/07-release/create-changelog/SKILL.md) | Release | Consolidate changes across repositories into a public Markdown changelog draft with a separate private evidence record. |
+
 1. Browse the skill directories and choose a skill that fits your task.
 2. Read its `SKILL.md` and follow its instructions.
 3. Install or link it using the conventions of your coding agent.

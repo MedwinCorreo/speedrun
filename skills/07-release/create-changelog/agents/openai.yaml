@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Changelog"
+  short_description: "Evidence-backed changelogs across repositories"
+  default_prompt: "Use $create-changelog to consolidate the supplied repositories into a public changelog draft following Keep a Changelog."
